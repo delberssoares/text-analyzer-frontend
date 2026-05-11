@@ -1,7 +1,7 @@
 # 📝 Text Analyzer - Frontend
 
 <p align="center">
-  <a href="https://dss-text-analyzer-frontend.vercel.app/" target="_blank">
+  <a href="https://text-analyzer-frontend.vercel.app/" target="_blank">
     <img src="./public/banner-readme.png" alt="Preview" width="600" />
   </a>
 </p>
@@ -9,7 +9,7 @@
 
 > Plataforma simples, moderna e responsiva para análise de textos, desenvolvida com React, TypeScript, Styled Components e Material UI, integrada a um backend em Python para processamento dos dados.
 
-🔗 **Acesse online:** [https://dss-text-analyzer-frontend.vercel.app/](https://dss-text-analyzer-frontend.vercel.app/)
+🔗 **Acesse online:** [https://text-analyzer-frontend.vercel.app/](https://text-analyzer-frontend.vercel.app/)
 
 ---
 
